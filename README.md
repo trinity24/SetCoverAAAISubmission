@@ -2,7 +2,7 @@
 
 ## Datasets
 
-#### To generate synthetic dataset with varying frequencies $f \in \{3,4,\dots,10\}$  values, use the function `generate_dataset()` in  `python ./notebooks/setcover_dataset.py` with parameters as 
+#### To generate synthetic dataset with varying frequencies $f \in {3,4,\dots,10}$  values, use the function `generate_dataset()` in  `python ./notebooks/setcover_dataset.py` with parameters as 
 ` num_instances=100, n=200, d=5, k1=50, k2=40, k3=40, f, num_subsets=500` 
 
 
