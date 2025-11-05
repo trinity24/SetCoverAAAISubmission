@@ -9,10 +9,10 @@
 
 
 ## Synthetic Datsets 
-### To generate the plots (Approximation Factor, Fairness Violations) for Inamdar Rounding vs Fair Iterated Rounding, run the notebook notebooks/synthetic_exps.ipynb
+### To generate the plots (Approximation Factor, Fairness Violations) for Inamdar Rounding vs Fair Iterated Rounding, run the notebook `notebooks/synthetic_exps.ipynb`
 
 
 
 ## Real-world Datasets
-### To generate the plots for Inamdar Rounding vs Fair Iterated Roudning, run the notebook notebooks/realword_exps.ipynb
+### To generate the plots for Inamdar Rounding vs Fair Iterated Roudning, run the notebook `notebooks/realword_exps.ipynb`
 
