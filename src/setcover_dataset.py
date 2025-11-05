@@ -11,7 +11,7 @@ class SetCoverInstanceGenerator:
     - Universe P of n elements, each with a color from {1, 2, 3}
     - Collection of subsets, each containing at most d elements
     - Each subset has a real-valued weight
-    - Color constraints: k_j <= |P ∩ P_j| where P_j is set of elements with color j
+    - Color constraints: k_j <= |P \cap P_j| where P_j is set of elements with color j
     """
     def __init__(self, n, d,
                  k1, k2, k3, f,
